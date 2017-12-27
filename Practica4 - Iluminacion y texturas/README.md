@@ -68,9 +68,8 @@ Iluminacion y texturas
 
 
 
-#Iluminacion
+# Iluminacion
 
-Iluminacion:"															
 'e' --> Activar/desactivar las luces."									
 
 's' --> Pintar en modo suavizado"											
@@ -95,7 +94,7 @@ Iluminacion:"
 
 
 
-#Textura
+# Textura
 
 'F7' --> Traslada la textura hacia la izquierda
 
