@@ -1,3 +1,10 @@
 # Ignore
-/.vscode/
-/*.o
+.vscode/
+**/*.o
+**/.vscode
+**/.ghc
+**/practica1
+**/practica2
+**/practica3
+**/practica4
+**/practica5
