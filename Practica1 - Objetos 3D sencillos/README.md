@@ -5,7 +5,7 @@ Jose Antonio Ruiz Millan 2017-2018
 Objetos 3D sencillos
 
 
-# Objetos:
+## Objetos:
 
  '1' --> Tetraedro
  
@@ -17,7 +17,7 @@ Objetos 3D sencillos
  
 
 
-# Formas de dibujo:
+## Formas de dibujo:
 
  'f' --> Solido
  
