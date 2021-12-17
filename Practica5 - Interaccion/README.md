@@ -9,7 +9,7 @@ Camaras, raton y seleccion
 **./practica5 s** --> Para ejecutar en modo seleccion.
 
 
-# Objetos:
+## Objetos:
 
  '1' --> Tetraedro
  
@@ -29,7 +29,7 @@ Camaras, raton y seleccion
 
 
 
-# Formas de dibujo:
+## Formas de dibujo:
 
  'f' --> Solido
  
@@ -45,7 +45,7 @@ Camaras, raton y seleccion
  
  
  
-# Modos de Uso para el Usuario:
+## Modos de Uso para el Usuario:
 
  Para mover el cubo podemos usas las siguientes teclas:
  
@@ -69,7 +69,7 @@ Camaras, raton y seleccion
 
 
 
-# Camaras: 
+## Camaras: 
 
 **Para ello debemos arrancar el programa --> ./practica5 c**
 
@@ -77,7 +77,7 @@ Tendremos las 4 camaras, 1 con movimiento y otras 3 que seran alzado planta y pe
 
 Para mover la camara podemos usar las flechas como hasta ahora o el raton, dejando el boton derecho pulsado y moviendo el raton.
 
-# Seleccion: 
+## Seleccion: 
 
 **Para ello debemos arrancar el programa --> ./practica5 s**
 
@@ -86,3 +86,10 @@ Podremos seleccionar los objetos y se pondran en verde. Si los volvemos a selecc
 **AVISO: RUBIK**
 
 Para el cubo de rubik hay que dibujarlo en modo RUBIK pulsando la **a**.
+
+# Donaciones
+Recuerda que la publicación de estas prácticas se hace con el fin de compartir las ideas que en mi caso utilizo para resolver dichas prácticas, recalcando que en ningún momento incito a la copia de las mismas. El uso de estas soluciones puede servir como ayuda o apoyo, pero nunca para copiar trabajos, el aprendizaje es lo más importante!
+
+Si te ha sido útil mi solución o cualquier otra solución mia, puedes apoyarme con un café para seguir compartiendo conocimientos! :)
+
+<a href="https://www.buymeacoffee.com/josebummer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
